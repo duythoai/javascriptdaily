@@ -1,0 +1,5 @@
+﻿1/ length cua string - Nếu String hiện tại dài không đủ thì nó sẽ thêm
++ Trước: padStart
++ Sau: padEnd
+
+2/ Ký tự sẽ thêm
